@@ -5,6 +5,14 @@
 
 
 安装和部署提示：
+
+
+windows部署：解压ai-helper-1.0.0.7z，直接运行exe文件就行(windows 不用安装Java环境)
+
+其他平台部署：控制台：Java -jar ai-helper-1.0.0.jar （需要安装Java21环境）
+
+
+
 1需要安装Java21环境jdk21，根据部署脚本的提示安装Java21环境，
 
 2翻译需要python相关库的支持，首先需要安装python环境，勾选安装pip支持，安装pip install translate 翻译插件支持就能离线翻译了，
